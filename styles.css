@@ -14,9 +14,10 @@ body {
 }
 
 .card {
+  width: 320px;
+  height: 499px;
   background-color: white;
   text-align: center;
-  width: 320px;
   border-radius: 20px;
 }
 
