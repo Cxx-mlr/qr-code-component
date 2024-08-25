@@ -33,8 +33,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Cxx-mlr/qr-code-component)
+- Live Site URL: [Vercel](https://qr-code-component-omega-red.vercel.app/)
 
 ## My process
 
