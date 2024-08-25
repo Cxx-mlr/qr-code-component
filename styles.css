@@ -16,8 +16,8 @@ body {
 .card {
   background-color: white;
   text-align: center;
-  width: 300px;
-  border-radius: 16px;
+  width: 320px;
+  border-radius: 20px;
 }
 
 .card figure {
@@ -28,19 +28,25 @@ body {
 .card img {
   max-width: 100%;
   height: auto;
-  border-radius: 16px;
+  border-radius: 10px;
+  margin-bottom: 1.17rem;
 }
 
-.card h1 {
+.card h3 {
   font-size: 1.32rem;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
+  letter-spacing: 0px;
+  margin: 0 1rem;
 }
 
 .card p {
   font-weight: 400;
   color: hsl(216, 15%, 48%);
   font-size: 0.9375rem;
+  letter-spacing: 0.2px;
+  margin: 0 1rem;
+  margin-top: 1rem;
 }
 
 .attribution {
