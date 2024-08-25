@@ -40,6 +40,7 @@ body {
 .card p {
   font-weight: 400;
   color: hsl(216, 15%, 48%);
+  font-size: 0.9375rem;
 }
 
 .attribution {
