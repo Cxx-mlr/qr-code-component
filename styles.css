@@ -6,11 +6,10 @@ body {
 
 .card-section {
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  text-justify: distribute;
 }
 
 .card {
@@ -62,5 +61,13 @@ body {
 
 footer {
   position: absolute;
-  bottom: 10px;
+  bottom: 15px;
+  inset-inline: 0px;
+}
+
+@media (max-height: 590px) {
+  footer {
+    position: static;
+    margin-bottom: 15px;
+  }
 }
