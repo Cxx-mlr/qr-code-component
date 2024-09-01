@@ -33,7 +33,7 @@ body {
   margin-bottom: 1.17rem;
 }
 
-.card h3 {
+.card .title {
   font-size: 1.32rem;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
